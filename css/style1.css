@@ -1,0 +1,29 @@
+div.r{
+    width: 200px;
+    height: 200px;
+   
+    display: inline-flex;
+
+}
+div.m{
+    width:200px ;
+    height: 200px;
+    background-color: grey;
+    display: inline-flex;
+}
+div.n{
+    border-top-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+
+}
+div.n1{
+    border-top-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+
+}
+div.u:hover{
+ background-color: cornflowerblue;
+}
+div.v:hover{
+    background-color: hotpink
+}
